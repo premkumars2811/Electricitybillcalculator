@@ -5,8 +5,8 @@ import Tips from '../components/Tips'
 const Home = () => {
   return (
     <>
-      <Welcome />
-      <Tips />
+      <Welcome/>
+      <Tips/>
     </>
   )
 }
